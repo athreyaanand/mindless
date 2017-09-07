@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/athreyaanand/.android/build-cache/9ac5e621253075418fb9b318602fb9dee705e73a/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/C:\\Users\\athreya\\Desktop\\TRACE\\Mindless Master\\Mindless\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/C:\\Users\\athreya\\.android\\build-cache\\65855982edfc6efc28b91ee476809b4f0b8d16a5\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

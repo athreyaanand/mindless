@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/content_unavailable"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:weightSum="1">
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/cloud_off"
+        android:backgroundTint="@color/colorPrimaryDark"/>
+    <TextView
+        android:id="@+id/loading_failed_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:text="Unable to load content"
+        android:textSize="20sp"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/try_again"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Try Again" />
+
+</LinearLayout>

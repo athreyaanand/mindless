@@ -1,0 +1,7 @@
+#Sun Sep 03 15:10:34 EDT 2017
+base.0=/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ab444117b0411349bb1504766a07fe4711c8183
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb8da5fc0e95d19ebd3b567eac79503a6af4db90/classes.dex
+base.1=/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb8da5fc0e95d19ebd3b567eac79503a6af4db90
+file.0=/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ab444117b0411349bb1504766a07fe4711c8183/classes.dex

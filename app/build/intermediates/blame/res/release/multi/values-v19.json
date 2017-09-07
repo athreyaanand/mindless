@@ -1,0 +1,49 @@
+[
+    {
+        "outputFile": "C:\\Users\\athreya\\Desktop\\TRACE\\Mindless Master\\Mindless\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v19\\values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "C:\\Users\\athreya\\.android\\build-cache\\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\\output\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 332
+                },
+                "from": {
+                    "file": "C:\\Users\\athreya\\.android\\build-cache\\cc1ce40acb8a2395b28067faa035da811a6d1478\\output\\res\\values-v19\\values-v19.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 195
+                    }
+                }
+            }
+        ]
+    }
+]

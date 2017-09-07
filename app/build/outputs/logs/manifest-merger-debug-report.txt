@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.INTERNET
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:20:5-66
+MERGED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:9:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/athreyaanand/.android/build-cache/d1c8104f4fc4bce596bab77bfd86f84c9df00e8c/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] /Users/athreyaanand/.android/build-cache/dd972e228c1a05b677f6bb3b0a7b4dd6321c0a14/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/athreyaanand/.android/build-cache/8440cb38ebde41548bd49bec36e4155322bdff09/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/AndroidManifest.xml:26:5-19
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] /Users/athreyaanand/.android/build-cache/cee597ea812b8488f75c6d9d62c2e6134991dc37/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/athreyaanand/.android/build-cache/43e4023ccfdb2b798481017736f04c7073303d7e/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:10.0.1] /Users/athreyaanand/.android/build-cache/670d58135885277714386b5b2c3a7ad43237d26d/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/athreyaanand/.android/build-cache/1735e4146bf3e14aee0eaea48e2cae6bc74e7d11/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/athreyaanand/.android/build-cache/9984f56819c8d3ec536e188cc8bc933a85e898d7/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/athreyaanand/.android/build-cache/8e08e2a4a1de2b3425a227dc73b2a01e62c01a28/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support:customtabs:25.3.1] /Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/athreyaanand/.android/build-cache/8a3c545316b3765e12cbe2e55f45158b5da251ff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/athreyaanand/.android/build-cache/1b01d0c8577a610b2ce2d8ca641ca1842a92bb50/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/152315425e6916236ba11e33cfca6659e455d340/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/80ed24844578ba6976dbb66b8f64d9ec3c7e8634/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/athreyaanand/.android/build-cache/fd930cfe70ce6460854fad0a059dd46531f4be01/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/athreyaanand/.android/build-cache/b1d961dcf9ef0e2d80d02de91b32f551cc60d149/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/athreyaanand/.android/build-cache/797dd36e190657accf40b8c024bb79a8da0864c3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/athreyaanand/.android/build-cache/2d33a8b823c4e7784cc0f43703f793b08f4a7ca2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/athreyaanand/.android/build-cache/7cf23ecf3bcd6e19836a30474d5ad074a27bf017/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/athreyaanand/.android/build-cache/6ba102e5743c3390dc33fbc3a581cf16aa7d81cf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/athreyaanand/.android/build-cache/0c1471b070a5e747a915345a457355b333fe61f6/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:11:9-43
+activity#xyz.tracestudios.mindless.FrontPageActivity
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:14:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/athreyaanand/.android/build-cache/d1c8104f4fc4bce596bab77bfd86f84c9df00e8c/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.1.1] /Users/athreyaanand/.android/build-cache/dd972e228c1a05b677f6bb3b0a7b4dd6321c0a14/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] /Users/athreyaanand/.android/build-cache/8440cb38ebde41548bd49bec36e4155322bdff09/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/AndroidManifest.xml:17:5-42
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] /Users/athreyaanand/.android/build-cache/cee597ea812b8488f75c6d9d62c2e6134991dc37/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.1] /Users/athreyaanand/.android/build-cache/43e4023ccfdb2b798481017736f04c7073303d7e/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:10.0.1] /Users/athreyaanand/.android/build-cache/670d58135885277714386b5b2c3a7ad43237d26d/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/athreyaanand/.android/build-cache/16de8d1d9f34abae108de4ef0e4a7484a542c4a1/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/athreyaanand/.android/build-cache/1735e4146bf3e14aee0eaea48e2cae6bc74e7d11/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/athreyaanand/.android/build-cache/9984f56819c8d3ec536e188cc8bc933a85e898d7/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/athreyaanand/.android/build-cache/8e08e2a4a1de2b3425a227dc73b2a01e62c01a28/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/AndroidManifest.xml:17:5-42
+MERGED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:customtabs:25.3.1] /Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/AndroidManifest.xml:20:5-44
+MERGED from [com.fmsirvent:parallaxeverywhere:1.0.4] /Users/athreyaanand/.android/build-cache/24d741df7a0f502d4f4e7b4ff50ccf98b563e2c3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.1] /Users/athreyaanand/.android/build-cache/499778e63e81ad8c1f0d04ee2f0eea61b976d956/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.klinkerapps:drag-dismiss-activity:1.4.0] /Users/athreyaanand/.android/build-cache/95092c205693c22d2e0010d0c1a635840719aeac/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] /Users/athreyaanand/.android/build-cache/8a3c545316b3765e12cbe2e55f45158b5da251ff/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/athreyaanand/.android/build-cache/1b01d0c8577a610b2ce2d8ca641ca1842a92bb50/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/152315425e6916236ba11e33cfca6659e455d340/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/80ed24844578ba6976dbb66b8f64d9ec3c7e8634/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/athreyaanand/.android/build-cache/092a016e03f7867ce13e3e60df87b7f7e0738d24/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/athreyaanand/.android/build-cache/fd930cfe70ce6460854fad0a059dd46531f4be01/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/athreyaanand/.android/build-cache/b1d961dcf9ef0e2d80d02de91b32f551cc60d149/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/athreyaanand/.android/build-cache/797dd36e190657accf40b8c024bb79a8da0864c3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/athreyaanand/.android/build-cache/2d33a8b823c4e7784cc0f43703f793b08f4a7ca2/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/athreyaanand/.android/build-cache/7cf23ecf3bcd6e19836a30474d5ad074a27bf017/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/athreyaanand/.android/build-cache/6ba102e5743c3390dc33fbc3a581cf16aa7d81cf/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/athreyaanand/.android/build-cache/0c1471b070a5e747a915345a457355b333fe61f6/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/athreyaanand/.android/build-cache/8a3c545316b3765e12cbe2e55f45158b5da251ff/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] /Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] /Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] /Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] /Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/AndroidManifest.xml:20:20-65
+activity#xyz.klinker.android.article.ArticleActivity
+ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:29:9-31:51
+	android:theme
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:30:13-71
+activity#xyz.klinker.android.article.ImageViewActivity
+ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:32:9-34:51
+	android:theme
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] /Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/AndroidManifest.xml:33:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:25.3.1] /Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] /Users/athreyaanand/.android/build-cache/8a3c545316b3765e12cbe2e55f45158b5da251ff/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/athreyaanand/.android/build-cache/1b01d0c8577a610b2ce2d8ca641ca1842a92bb50/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/152315425e6916236ba11e33cfca6659e455d340/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/athreyaanand/.android/build-cache/80ed24844578ba6976dbb66b8f64d9ec3c7e8634/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/athreyaanand/.android/build-cache/092a016e03f7867ce13e3e60df87b7f7e0738d24/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/athreyaanand/.android/build-cache/fd930cfe70ce6460854fad0a059dd46531f4be01/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/athreyaanand/.android/build-cache/b1d961dcf9ef0e2d80d02de91b32f551cc60d149/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/athreyaanand/.android/build-cache/797dd36e190657accf40b8c024bb79a8da0864c3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/athreyaanand/.android/build-cache/2d33a8b823c4e7784cc0f43703f793b08f4a7ca2/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/athreyaanand/.android/build-cache/7cf23ecf3bcd6e19836a30474d5ad074a27bf017/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/athreyaanand/.android/build-cache/6ba102e5743c3390dc33fbc3a581cf16aa7d81cf/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/athreyaanand/.android/build-cache/0c1471b070a5e747a915345a457355b333fe61f6/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:customtabs:25.3.1] /Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:customtabs:25.3.1] /Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/AndroidManifest.xml:23:9-47

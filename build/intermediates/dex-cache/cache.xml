@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_03b1121893f6364bec32527425c8d611d26266fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_e0a8f630c8243cc5a5492e095476a40f65d991b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/092a016e03f7867ce13e3e60df87b7f7e0738d24/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_412f4af547eb88f340cc23b19179d1a4bf8caa57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d50d6a3d31c95183144c9de49ba2f3deda3e3900">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2ab444117b0411349bb1504766a07fe4711c8183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_4b463d6126b464964cf5e7e8023b92bce52afeec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/152315425e6916236ba11e33cfca6659e455d340/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dad0aa5d2f003f8298574e2142b0bcff4d04246/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/8a3c545316b3765e12cbe2e55f45158b5da251ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6c84d8481784027253787fa7cedba4fd0508d90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cb8da5fc0e95d19ebd3b567eac79503a6af4db90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/24d741df7a0f502d4f4e7b4ff50ccf98b563e2c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="254c6e49fb9d776a8c29f05bffa89b5fbe0e8e04">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27376a8d2a2139400265fc924a9d5c6f4ad2f5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/44fbf14d017f093de9c6f14fbb5fb9fddaef7c97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6565d7c21a92f754cacab5cf873951bef76f4e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/cee597ea812b8488f75c6d9d62c2e6134991dc37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18e4d2146490b76b3282f1949ed6ffd052a0fc23">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e22851b454154004fea5e309d3ae38106a729af5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/b1d961dcf9ef0e2d80d02de91b32f551cc60d149/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5900307b5063ea343e63636ad5242b51e78ce12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/0c1471b070a5e747a915345a457355b333fe61f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8edba4cbc7886dcd6d75b19aef949f65f664d788/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/797dd36e190657accf40b8c024bb79a8da0864c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a84172133236f7ff5e43074254ebd6954fc96db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/e228494594bc4afa180cfef69e4c38f91293917b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6087e4561c341730bcff5608eb5a1d3a802e0e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/a5bc8907715e8f434ebd97e4d02c1a9806775e11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07b1c848f5745bd81c0c375f1af9943dd5392f3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/d1c8104f4fc4bce596bab77bfd86f84c9df00e8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef2ad8f0f99a02d73fe618e95835a3c4aa521684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c296b4ba4f3b7f61c8aa5c73b4e689c199947cfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/16de8d1d9f34abae108de4ef0e4a7484a542c4a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db8d6b4c275c550a11daa85f112b62610ae7ff93/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/8e08e2a4a1de2b3425a227dc73b2a01e62c01a28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f62540794c3cb82a8e3cf7cbc7a70af22c5e575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.2/33ee82e324f4b1e40167f3dc5e01234a1c5cab61/jsoup-1.10.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="33ee82e324f4b1e40167f3dc5e01234a1c5cab61">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.10.2_0165247972095054cf5735f7017cce013089a9f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_784cc0051cca3042125d10662e36fdf56da7c182/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/8440cb38ebde41548bd49bec36e4155322bdff09/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0173e6b2a91e731eac48c76755277f719813bf7e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_6a5241d101f7631a2047911cc4c27be8f7c1f545/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/7955bc31389f6d0a1735b5f9d240a208a8902ce5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a81990f0fcf1cb296ff8d46aa6c93dd4863e66f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/9984f56819c8d3ec536e188cc8bc933a85e898d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0426e59b5af3e1379a1e8fd461fbf52c35c39d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/0a49862d716ceef8a30dfaa808c09ade6b0bc865/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5124c5859549024046faa02499fd913c319ce5b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/dd972e228c1a05b677f6bb3b0a7b4dd6321c0a14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7e35d4fdb5bb1d14f36c76f450b35af35d7a136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/95092c205693c22d2e0010d0c1a635840719aeac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d85e5fa7d6eba3adf866a8a6542547fd141f3b9">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1cd3b0fc3b73b709d6eace24d16da57792a53735/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/1dcbf5686279e07838c7a310bb457cd4210383ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ed829d363996a909e851201f3b7fb7253405622/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/c6550e7e108fe97b421917919fd151098789ecc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fa0ede9ff24e213ea694f1c9947542465ef8339a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/499778e63e81ad8c1f0d04ee2f0eea61b976d956/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6b765967c8091ebb45f2c02972a2fa9cba5dd87">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f00ae0bfabdee973ff2ed36acaf501ada5d178d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/2d33a8b823c4e7784cc0f43703f793b08f4a7ca2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cffdae71899703dc6ae29e7aa33bdd2715b2162d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_041e0dd33e2190df341f40305c4aa4bc1faaaead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_bcfa0bd36d025caa54485b16023becce382fe24c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/fd930cfe70ce6460854fad0a059dd46531f4be01/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fca399025147321ab94ba8882bf5be26c973f5b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/08cf562c3977453cb696c6d5b187afd34f7d9a1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2fbf7589184f4ae816f483ffe50929c2dfc7cef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.7.0/6edbebdd8868708db718d15c09c4b28037fd487e/okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.7.0_9fae3aac2a3033472f3292d3ad19928c36b08a90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/1735e4146bf3e14aee0eaea48e2cae6bc74e7d11/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b56df2576a54ee1b3ea3608097c7d09993f28584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad168742bd43bc7b79b32faaf3c42928b7e96c37">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6259f745cd92a666374e213b99df671cbdb9fdba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/7cf23ecf3bcd6e19836a30474d5ad074a27bf017/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8f6ff8a409922e5593a87614edca78ae39aa0e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/80ed24844578ba6976dbb66b8f64d9ec3c7e8634/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_423fcc3e0daf4a1b65812e0305be8f6a0f70c088/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.8.2/d27c24204c5e507b16fec01006b3d0f1ec42aed4/joda-time-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d27c24204c5e507b16fec01006b3d0f1ec42aed4">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.8.2_4b7fa34ef3447998d71087eff424706f93924e99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/1b01d0c8577a610b2ce2d8ca641ca1842a92bb50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b131dd860e13c27e6dad64c7ec0d42d7bb2b4720/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/3bbddb149de58a31598f6089ee736b47aa443a26/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a95abdb6476331e76587f8b790ee2a081d4f73a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/c9cc8933d265c9bea3ff2bce66a3465a8ec7118e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14dfbfd711c6b1cc9246f84dd2354a6f5b3560e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.android/build-cache/6ba102e5743c3390dc33fbc3a581cf16aa7d81cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1c995b435d77da24a83db4bf4c53b4a26870dde5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/athreyaanand/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/athreyaanand/Desktop/DEV/Mindless Master/Mindless/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_f001d8208cfc0b8c0bfeaf04c58b74456312ad19/classes.dex" />
+    </item>
+
+</items>

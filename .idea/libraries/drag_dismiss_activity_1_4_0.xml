@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="drag-dismiss-activity-1.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/95092c205693c22d2e0010d0c1a635840719aeac/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/95092c205693c22d2e0010d0c1a635840719aeac/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.klinkerapps/drag-dismiss-activity/1.4.0/d8fa954a77f8ffc79513456832b71c3af6daa684/drag-dismiss-activity-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

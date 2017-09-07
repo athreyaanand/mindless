@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "633002440844",
+    "firebase_url": "https://mindless-1f93d.firebaseio.com",
+    "project_id": "mindless-1f93d",
+    "storage_bucket": "mindless-1f93d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633002440844:android:1dc84b8c93517019",
+        "android_client_info": {
+          "package_name": "xyz.tracestudios.mindless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633002440844-894vig33kqpu8usls3rfj5ilkcr10h8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.tracestudios.mindless",
+            "certificate_hash": "da8c5c44c5b569f691df92a0467eba25f01fefe5"
+          }
+        },
+        {
+          "client_id": "633002440844-ahfr577p91dqvq0iasf3dru2e3be0bb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ1b_kKGSJbV89_KE_m3WuT0bekjxV-14"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

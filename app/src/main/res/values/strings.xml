@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mindless</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_hot">Hot</string>
+    <string name="nav_new">New</string>
+    <string name="nav_top">Top</string>
+    <string name="nav_noads">No Ads</string>
+    <string name="nav_about_us">Rate</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Hot</item>
+        <item>New</item>
+        <item>Top</item>
+        <item>No Ads</item>
+        <item>Rate</item>
+    </string-array>
+
+    <!--MARKETPLACE KEY-->
+    <!--DONT TOUCH-->
+    <string name="LL">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2f7Vc1Q0s+zhAT4QOVASsr5tOhzDazQjr/QT9jLgwLMet2rCEkB0hMkOVOIlho7uCxnCTWQesyEiawUGTAeyrcqWE5hARXBJm626bEd9K6zVyhjxFMixnTVqll/KOruePtHbAN4uHpCpxVIb6F6F0JkbFuH/PZQojzLu/IuQ3aa42eSZuJCrM8ssGT9LYwEVUeDqfkC2Co+8mN4v7IeM1SPlibTXEeXK+lcscKF4CfCjITXAzNSVvR/jq5Mqq3oR9U+R3atZ7nx9ZSp2RAuxLwx6yBE1d6m/IlxwIilPfvj9rQ2p3uofKReIJVr7Uy+Q4kFRNQlDpDeMjHJ6CQ0eHQIDAQAB</string>
+
+    <!--DEV PAYLOAD-->
+    <!--DONT TOUCH-->
+    <string name="L">YUc5emFHZ2FUYzRieUFnWlRaZUpTcGlkMkf</string>
+</resources>

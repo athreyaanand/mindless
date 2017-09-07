@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="6dp"
+    android:layout_marginTop="4dp"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    card_view:cardElevation="0.25dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingBottom="6dp"
+            android:paddingLeft="6dp"
+            android:paddingRight="6dp"
+            android:paddingTop="6dp"
+            android:background="@color/white">
+
+            <ImageView
+                android:id="@+id/featureImage"
+                android:layout_width="105dp"
+                android:layout_height="105dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginRight="16dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/placeholder"/>
+
+            <TextView
+                android:id="@+id/title"
+                android:lineSpacingMultiplier="1.25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="2dp"
+                android:layout_toEndOf="@+id/featureImage"
+                android:layout_toRightOf="@+id/featureImage"
+                android:text="Overweight And Obese Pets? Tips To Assess Your Pet's Health"
+                android:textColor="@color/titleText"
+                android:textSize="14sp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/relativeTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_marginBottom="8dp"
+                android:layout_toEndOf="@+id/featureImage"
+                android:layout_toRightOf="@+id/featureImage"
+                android:text="4 hours ago"
+                android:textColor="@color/urlText"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/domain"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textView"
+                android:layout_alignBottom="@+id/textView"
+                android:layout_toEndOf="@+id/textView"
+                android:layout_toRightOf="@+id/textView"
+                android:text="vice.com"
+                android:textColor="@color/urlText" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/relativeTime"
+                android:layout_alignBottom="@+id/relativeTime"
+                android:layout_toEndOf="@+id/relativeTime"
+                android:layout_toRightOf="@+id/relativeTime"
+                android:text=" • "
+                android:textColor="@color/urlText" />
+
+            <TextView
+                android:id="@+id/orangeBox"
+                android:layout_width="64dp"
+                android:layout_height="16dp"
+                android:background="@color/colorPrimary"
+                android:layout_below="@+id/relativeTime"
+                android:layout_alignLeft="@+id/relativeTime"
+                android:layout_alignStart="@+id/relativeTime" />
+
+            <TextView
+                android:id="@+id/featured"
+                android:layout_width="60dp"
+                android:layout_height="12dp"
+                android:layout_below="@+id/relativeTime"
+                android:layout_alignLeft="@+id/relativeTime"
+                android:layout_alignStart="@+id/relativeTime"
+                android:layout_marginTop="1dp"
+                android:layout_marginLeft="2dp"
+                android:layout_marginStart="2dp"
+                android:gravity="center"
+                android:text="MINDLESS"
+                android:textColor="@color/white"
+                android:textSize="10sp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Filter Stories">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_hot"
+                    android:icon="@drawable/ic_fire"
+                    android:title="@string/nav_hot" />
+                <item
+                    android:id="@+id/nav_new"
+                    android:icon="@drawable/ic_clock"
+                    android:title="@string/nav_new" />
+                <item
+                    android:id="@+id/nav_top"
+                    android:icon="@drawable/ic_star"
+                    android:title="@string/nav_top" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_noads"
+                android:title="@string/nav_noads" />
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="@string/nav_about_us" />
+        </menu>
+    </item>
+
+</menu>

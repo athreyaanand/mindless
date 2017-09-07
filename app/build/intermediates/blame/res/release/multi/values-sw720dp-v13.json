@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "C:\\Users\\athreya\\Desktop\\TRACE\\Mindless Master\\Mindless\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "C:\\Users\\athreya\\.android\\build-cache\\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 49,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\athreya\\.android\\build-cache\\cc1ce40acb8a2395b28067faa035da811a6d1478\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 49,
+                        "endOffset": 100
+                    }
+                }
+            }
+        ]
+    }
+]

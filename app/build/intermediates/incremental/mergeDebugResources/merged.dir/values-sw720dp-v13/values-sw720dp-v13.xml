@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="article_articleWidth">576dp</dimen>
+    <dimen name="dragdismiss_width">576dp</dimen>
+</resources>

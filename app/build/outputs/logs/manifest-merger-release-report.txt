@@ -1,0 +1,307 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+uses-permission#com.android.vending.BILLING
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\6562f630f1080a820d1b7c893108713e8866022a\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:20:5-66
+MERGED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\6562f630f1080a820d1b7c893108713e8866022a\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:9:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\athreya\.android\build-cache\92614fade6f3382006d3b2f962c48b31e5c378ed\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\athreya\.android\build-cache\2e30a361ca2531a53ee85c4796bc34a83457b364\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\athreya\.android\build-cache\445c06c72dbcdeb9d27be033117f6b7ffab65d1b\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\6562f630f1080a820d1b7c893108713e8866022a\output\AndroidManifest.xml:26:5-19
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\athreya\.android\build-cache\b04c60618923e4eea103c76f4c58d55d16e71004\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\athreya\.android\build-cache\02a8a44e755ed2b0a28fdabc4211ce35be5d64ff\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\athreya\.android\build-cache\8937cd9e3fc90ae6061f150522a0f598dd61d56e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\athreya\.android\build-cache\48a5e6042f15b4089793893cce39ea30fc4b2779\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\athreya\.android\build-cache\b5acd88ee0b7569d2dd2492aba2f7a69c07c4a9e\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\athreya\.android\build-cache\14b7719d7016bc3f3b2ff2cbd0dff0dc833c8bb7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\athreya\.android\build-cache\c1e19c00ec391ff818c1134e808b70bbbb188093\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\athreya\.android\build-cache\c63268d4c609788ba21070837d0754aff9ea4cab\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\athreya\.android\build-cache\557c47b513273e1b587d677ec9cdc3b54082a12f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\athreya\.android\build-cache\626aa42f83ff1d494d73991e3355af379ae36e69\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\ee7500458e96c325c2a6df4e27e57270f66bc51d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\cc011a811d86035b0627721216323ae7b0cae16d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\athreya\.android\build-cache\22bc301aac25e22d526461def9f87f21987871ec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\athreya\.android\build-cache\59119f8688ff723b776333413ffa7c100b33b5b6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\athreya\.android\build-cache\d63ecddf65206c0699b689626c151c401964c4aa\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\athreya\.android\build-cache\29b6f5cc58ecba77247b5ec74813f0e9af23f0b4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\athreya\.android\build-cache\b2bfb74c260656995b30ddc661904103f87bec7f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\athreya\.android\build-cache\d9fdf1a5c602703365a3b46a80ec2ae654c76e2a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\athreya\.android\build-cache\955209b4ffc8aa52b7006d5563041733bc74310d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:11:9-43
+activity#xyz.tracestudios.mindless.FrontPageActivity
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:14:9-21:20
+	android:theme
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:14:19-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\athreya\.android\build-cache\92614fade6f3382006d3b2f962c48b31e5c378ed\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:25.1.1] C:\Users\athreya\.android\build-cache\2e30a361ca2531a53ee85c4796bc34a83457b364\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\athreya\.android\build-cache\445c06c72dbcdeb9d27be033117f6b7ffab65d1b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\6562f630f1080a820d1b7c893108713e8866022a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.github.delight-im:Android-AdvancedWebView:v3.0.0] C:\Users\athreya\.android\build-cache\b04c60618923e4eea103c76f4c58d55d16e71004\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\athreya\.android\build-cache\02a8a44e755ed2b0a28fdabc4211ce35be5d64ff\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\athreya\.android\build-cache\8937cd9e3fc90ae6061f150522a0f598dd61d56e\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\athreya\.android\build-cache\943716d7cbd17909da5363a60b109fc4852cf06a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\athreya\.android\build-cache\48a5e6042f15b4089793893cce39ea30fc4b2779\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\athreya\.android\build-cache\b5acd88ee0b7569d2dd2492aba2f7a69c07c4a9e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\athreya\.android\build-cache\14b7719d7016bc3f3b2ff2cbd0dff0dc833c8bb7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\athreya\.android\build-cache\c1e19c00ec391ff818c1134e808b70bbbb188093\output\AndroidManifest.xml:17:5-42
+MERGED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\athreya\.android\build-cache\c63268d4c609788ba21070837d0754aff9ea4cab\output\AndroidManifest.xml:20:5-44
+MERGED from [com.fmsirvent:parallaxeverywhere:1.0.4] C:\Users\athreya\.android\build-cache\f6a96f1d28ddcc8ea2fab9b3c0995d9d7b41a676\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:1.3.1] C:\Users\athreya\.android\build-cache\e950957b54c3523d20176f289bedc16a114503f9\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.klinkerapps:drag-dismiss-activity:1.4.0] C:\Users\athreya\.android\build-cache\cc1ce40acb8a2395b28067faa035da811a6d1478\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\athreya\.android\build-cache\557c47b513273e1b587d677ec9cdc3b54082a12f\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\athreya\.android\build-cache\626aa42f83ff1d494d73991e3355af379ae36e69\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\ee7500458e96c325c2a6df4e27e57270f66bc51d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\cc011a811d86035b0627721216323ae7b0cae16d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\athreya\.android\build-cache\15411d73be54949077ec8bce30a0994fe9f1b710\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\athreya\.android\build-cache\22bc301aac25e22d526461def9f87f21987871ec\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\athreya\.android\build-cache\59119f8688ff723b776333413ffa7c100b33b5b6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\athreya\.android\build-cache\d63ecddf65206c0699b689626c151c401964c4aa\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\athreya\.android\build-cache\29b6f5cc58ecba77247b5ec74813f0e9af23f0b4\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\athreya\.android\build-cache\b2bfb74c260656995b30ddc661904103f87bec7f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\athreya\.android\build-cache\d9fdf1a5c602703365a3b46a80ec2ae654c76e2a\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\athreya\.android\build-cache\955209b4ffc8aa52b7006d5563041733bc74310d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\athreya\.android\build-cache\557c47b513273e1b587d677ec9cdc3b54082a12f\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\athreya\Desktop\TRACE\Mindless Master\Mindless\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\6562f630f1080a820d1b7c893108713e8866022a\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\athreya\.android\build-cache\caacb612ec256a05afa3eea184aa8f190001dfca\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\athreya\.android\build-cache\cb7f69ea0ff2c4f66f81615fbbb9ecd79d74ebc0\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\athreya\.android\build-cache\93062dd94af7fec162d0ba31b4d7d715e2dda3f0\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\athreya\.android\build-cache\bd07634a02e7d0eabb821c53afa476eb521fab08\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\athreya\.android\build-cache\6230d7e115db139e951001a403338c80fa957fdb\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\athreya\.android\build-cache\8ee09c9bff188598d9d8fae97d871f53862542a6\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\athreya\.android\build-cache\d5f8412dd599eb2329d9c1f3d306835e760429d6\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\athreya\.android\build-cache\c1e19c00ec391ff818c1134e808b70bbbb188093\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\athreya\.android\build-cache\c1e19c00ec391ff818c1134e808b70bbbb188093\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\athreya\.android\build-cache\c1e19c00ec391ff818c1134e808b70bbbb188093\output\AndroidManifest.xml:20:20-65
+activity#xyz.klinker.android.article.ArticleActivity
+ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:29:9-31:51
+	android:theme
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:30:13-71
+activity#xyz.klinker.android.article.ImageViewActivity
+ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:32:9-34:51
+	android:theme
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:34:13-48
+	android:name
+		ADDED from [com.klinkerapps:article_viewer:0.22.4] C:\Users\athreya\.android\build-cache\7cc2842d317c78d7f6d8bfbba768f3675c1dced4\output\AndroidManifest.xml:33:13-73
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:25.3.1] C:\Users\athreya\.android\build-cache\c63268d4c609788ba21070837d0754aff9ea4cab\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:design:25.3.1] C:\Users\athreya\.android\build-cache\557c47b513273e1b587d677ec9cdc3b54082a12f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\athreya\.android\build-cache\626aa42f83ff1d494d73991e3355af379ae36e69\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\ee7500458e96c325c2a6df4e27e57270f66bc51d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\athreya\.android\build-cache\cc011a811d86035b0627721216323ae7b0cae16d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\athreya\.android\build-cache\15411d73be54949077ec8bce30a0994fe9f1b710\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\athreya\.android\build-cache\22bc301aac25e22d526461def9f87f21987871ec\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\athreya\.android\build-cache\59119f8688ff723b776333413ffa7c100b33b5b6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\athreya\.android\build-cache\d63ecddf65206c0699b689626c151c401964c4aa\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\athreya\.android\build-cache\29b6f5cc58ecba77247b5ec74813f0e9af23f0b4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\athreya\.android\build-cache\b2bfb74c260656995b30ddc661904103f87bec7f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\athreya\.android\build-cache\d9fdf1a5c602703365a3b46a80ec2ae654c76e2a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\athreya\.android\build-cache\955209b4ffc8aa52b7006d5563041733bc74310d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\athreya\.android\build-cache\c63268d4c609788ba21070837d0754aff9ea4cab\output\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\athreya\.android\build-cache\c63268d4c609788ba21070837d0754aff9ea4cab\output\AndroidManifest.xml:23:9-47

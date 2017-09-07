@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="article_viewer-0.22.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/4b1a0004f765475347e94bfa35aab9081fb5adb3/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.klinkerapps/article_viewer/0.22.4/d39aa13d6b7ac403bc71867ed3ef2e8b91a7eee2/article_viewer-0.22.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
